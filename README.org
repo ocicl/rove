@@ -1,0 +1,10 @@
+* rove
+
+#1=(yet another . #1#) common lisp testing library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fukamachi/rove.git   |
+| commit  | 6a5dfcd  |
+| systems | rove |
+|---------+-------------------------------------------|
+
