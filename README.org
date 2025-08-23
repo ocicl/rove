@@ -4,6 +4,6 @@
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/fukamachi/rove.git |
-| commit  | d47f7d6                                   |
+| commit  | 130baea                                   |
 | systems | rove                                      |
 |---------+-------------------------------------------|
